@@ -1,2 +1,2 @@
 # ride-price-prediction
-this is my first application
+This is my first application
