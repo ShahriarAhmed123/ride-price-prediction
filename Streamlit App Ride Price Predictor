@@ -43,23 +43,3 @@ Pull requests are welcome! Feel free to contribute.
 ## 📄 License
 MIT License
 ```
-
-4. **"Commit new file"** button e click korun
-
----
-
-## 🔧 **Step 2: Repository Description add korun**
-
-1. Repository র **main page** এ যান
-2. Right side এ **⚙️ (gear icon)** বা **"About"** section এ click korun
-3. **"Website"** field এ এই link paste korun:
-```
-   https://ride-price-prediction-6kmwxbwwpxdfq5siw3jjaj.streamlit.app/
-```
-4. **"Description"** এ লিখুন:
-```
-   🚗 Intelligent ride price prediction app using Machine Learning
-```
-5. **Topics** এ add korun:
-```
-   streamlit, machine-learning, python, price-prediction, web-app
