@@ -1,0 +1,66 @@
+# 🚗 RideEase Price Predictor
+
+
+An intelligent ride price prediction app built with Streamlit and Python.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ride-price-prediction-6kmwxbwwpxdfq5siw3jjaj.streamlit.app/)
+
+## 🌟 Live Demo
+👉 **[Try the app now!](https://ride-price-prediction-6kmwxbwwpxdfq5siw3jjaj.streamlit.app/)**
+
+## 📊 Features
+- 📍 Distance & duration-based pricing
+- 🌦️ Weather condition adjustments  
+- 🚘 Multiple vehicle types (Standard, Premium, Luxury)
+- ⏰ Rush hour & late-night pricing
+- ✈️ Airport surcharge calculation
+- ⭐ Driver rating consideration
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+
+## 💻 Local Setup
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+```
+
+## 📱 Screenshot
+![RideEase App](https://via.placeholder.com/800x400?text=Add+Your+App+Screenshot+Here)
+
+## 🤝 Contributing
+Pull requests are welcome! Feel free to contribute.
+
+## 📄 License
+MIT License
+```
+
+4. **"Commit new file"** button e click korun
+
+---
+
+## 🔧 **Step 2: Repository Description add korun**
+
+1. Repository র **main page** এ যান
+2. Right side এ **⚙️ (gear icon)** বা **"About"** section এ click korun
+3. **"Website"** field এ এই link paste korun:
+```
+   https://ride-price-prediction-6kmwxbwwpxdfq5siw3jjaj.streamlit.app/
+```
+4. **"Description"** এ লিখুন:
+```
+   🚗 Intelligent ride price prediction app using Machine Learning
+```
+5. **Topics** এ add korun:
+```
+   streamlit, machine-learning, python, price-prediction, web-app
